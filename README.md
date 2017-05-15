@@ -1,3 +1,3 @@
 # Question&Answer App Backend
 
-Node REST API
+> Node back-end (REST API) for Q&A app
